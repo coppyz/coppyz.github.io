@@ -23,7 +23,7 @@ repository               : "coppyz/coppyz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/image/IMG_9790.png"
+  avatar           : "image/IMG_9790.png"
   name             : "Zike Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science"
