@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Madison, University of Wisconsin, 2026 (Expected)
+* B.S. in Liaoning, Dalian Jiaotong University, 2024
 
 Work experience
 ======
@@ -41,6 +40,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+{% comment %}
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -62,3 +62,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+{% endcomment %}
