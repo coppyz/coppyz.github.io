@@ -11,6 +11,8 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Computer Science, **George Mason University**, 2026 – (Incoming, Fall 2026)
+  * Advisor: Prof. [Carlotta Domeniconi](https://cs.gmu.edu/~carlotta/)
 * B.S. in Computer Science, **University of Wisconsin–Madison**, 2026 (Expected)
 * B.E. in Computer Science, **Dalian Jiaotong University**, 2024 (Transferred)
 
