@@ -11,55 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in Madison, University of Wisconsin, 2026 (Expected)
-* B.S. in Liaoning, Dalian Jiaotong University, 2024
+* B.S. in Computer Science, **University of Wisconsin–Madison**, 2026 (Expected)
+* B.E. in Computer Science, **Dalian Jiaotong University**, 2024 (Transferred)
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Summer 2023** — Research Intern, [Guomics Lab](https://guomics.com/), Westlake University
+  * Advisor: Prof. Tiannan Guo
+  * Worked on AI-driven proteomics and biomedical data analysis
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Interests
+======
+* Large Language Models (LLMs) and Generative AI
+* Retrieval-Augmented Generation (RAG)
+* AI for Health & Biomedical Applications
+* Reasoning, alignment, and evaluation of foundation models
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages:** Python, C/C++, Java, JavaScript, SQL
+* **Machine Learning & AI:** PyTorch, Hugging Face Transformers, LangChain, scikit-learn
+* **LLM & RAG Systems:** Prompt engineering, fine-tuning, vector databases (FAISS, Chroma)
+* **Tools & Platforms:** Git, Linux, Docker, AWS
 
-{% comment %}
-Publications
+Languages
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Chinese (Native)
+* English (Fluent)
+
+Contact
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-{% endcomment %}
+* Email: [coppyzhou@gmail.com](mailto:coppyzhou@gmail.com)
+* GitHub: [coppyz](https://github.com/coppyz)
+* LinkedIn: [zike-zhou](https://www.linkedin.com/in/zike-zhou/)

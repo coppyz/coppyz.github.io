@@ -11,26 +11,27 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
+{% if site.publications.size == 0 %}
+  <p><em>Publications coming soon. In the meantime, please feel free to reach out at <a href="mailto:coppyzhou@gmail.com">coppyzhou@gmail.com</a> if you'd like to discuss ongoing work.</em></p>
+{% else %}
+  <!-- New style rendering if publication categories are defined -->
+  {% if site.publication_category %}
+    {% for category in site.publication_category  %}
+      {% assign title_shown = false %}
+      {% for post in site.publications reversed %}
+        {% if post.category != category[0] %}
+          {% continue %}
+        {% endif %}
+        {% unless title_shown %}
+          <h2>{{ category[1].title }}</h2><hr />
+          {% assign title_shown = true %}
+        {% endunless %}
+        {% include archive-single.html %}
+      {% endfor %}
+    {% endfor %}
+  {% else %}
     {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
       {% include archive-single.html %}
     {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+  {% endif %}
 {% endif %}
-
-
-
