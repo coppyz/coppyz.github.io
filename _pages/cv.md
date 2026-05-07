@@ -24,7 +24,6 @@ Research Experience
 Research Interests
 ======
 * Large Language Models (LLMs) and Generative AI
-* Retrieval-Augmented Generation (RAG)
 * AI for Health & Biomedical Applications
 * Reasoning, alignment, and evaluation of foundation models
 
@@ -32,7 +31,7 @@ Skills
 ======
 * **Programming Languages:** Python, C/C++, Java, SQL
 * **Machine Learning & AI:** PyTorch, Hugging Face Transformers, LangChain, scikit-learn
-* **LLM & RAG Systems:** Prompt engineering, fine-tuning, vector databases (FAISS, Chroma)
+* **LLM Systems:** Prompt engineering, fine-tuning, vector databases (FAISS, Chroma)
 * **Tools & Platforms:** Git, Linux, Docker, AWS
 
 Languages
