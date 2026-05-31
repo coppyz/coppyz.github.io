@@ -13,13 +13,14 @@ Education
 ======
 * Ph.D. in Computer Science, **[George Mason University](https://cs.gmu.edu/)**, 2026 – (Incoming, Fall 2026)
   * Advisor: Prof. [Carlotta Domeniconi](https://people.cs.gmu.edu/~carlotta/)
-* B.S. in Computer Science, **University of Wisconsin–Madison**, 2026 (Expected)
+* B.S. in Computer Science, **University of Wisconsin–Madison**, 2026
 
 Research Experience
 ======
 * **Summer 2025** — Research Intern, [Guomics Lab](https://guomics.com/), Westlake University
   * Advisor: Prof. Tiannan Guo
-  * Worked on AI-driven proteomics and biomedical data analysis
+  * Developed robust **pipelines and data mining workflows** to process large-scale, high-dimensional biological data.
+  * Optimized predictive models and automated feature extraction, turning messy structural data into highly structured, actionable insights.
 
 Research Interests
 ======
@@ -30,9 +31,9 @@ Research Interests
 Skills
 ======
 * **Programming Languages:** Python, C/C++, Java, SQL
-* **Machine Learning & AI:** PyTorch, Hugging Face Transformers, LangChain, scikit-learn
-* **LLM Systems:** Prompt engineering, fine-tuning, vector databases (FAISS, Chroma)
-* **Tools & Platforms:** Git, Linux, Docker, AWS
+* **AI & LLM Frameworks:** PyTorch, Hugging Face (Transformers/Accelerate), LangChain, scikit-learn
+* **LLM Infrastructure & Ops:** Advanced Prompt Engineering, Model Fine-tuning, Vector Databases (FAISS, Chroma), RAG (Retrieval-Augmented Generation) Systems
+* **Tools & Platforms:** Git, Linux/Unix, Docker, AWS (EC2/S3), MLOps Tools
 
 Languages
 ======
