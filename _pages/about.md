@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm **Zike Zhou** (周子轲) — a first-year **PhD student in Computer Science** at [George Mason University](https://cs.gmu.edu/), advised by Prof. [Carlotta Domeniconi](https://people.cs.gmu.edu/~carlotta/). I received my B.S. in Computer Science from the [University of Wisconsin–Madison](https://www.wisc.edu/) in 2026.
 
-My research interests lie at the intersection of **Large Language Models (LLMs), Trustworthy AI, and Data Mining**. I am particularly passionate about building robust LLM systems and engineering frameworks that make foundation models more reliable, securely evaluated, and ready for production-level deployment.
+My research interests lie at the intersection of **Information Retrieval (IR), Large Language Models (LLMs), and Data Mining**. I am particularly interested in how retrieval and LLMs can work together — building search and retrieval systems that help models find, rank, and ground their answers in the right information.
 
 ## News
 
@@ -19,9 +19,9 @@ My research interests lie at the intersection of **Large Language Models (LLMs),
 
 ## Research Interests
 
-- **Retrieval & Reasoning** — RAG, grounded generation, lightweight reasoning, and knowledge-intensive LLM applications
+- **Information Retrieval** — dense and neural retrieval, ranking, and LLM-based search
+- **Retrieval-Augmented Generation** — RAG, grounded generation, and knowledge-intensive LLM applications
 - **Data Mining & Applied Machine Learning** — extracting useful patterns from structured, textual, and real-world data
-- **Trustworthy & Generative AI** — reasoning, alignment, robust evaluation pipelines, and data contamination mitigation in LLMs
 
 ## Get in Touch
 

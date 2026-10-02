@@ -24,9 +24,9 @@ Research Experience
 
 Research Interests
 ======
-* Retrieval & Reasoning: RAG, grounded generation, and knowledge-intensive LLM applications
+* Information Retrieval: dense and neural retrieval, ranking, and LLM-based search
+* Retrieval-Augmented Generation: grounded generation and knowledge-intensive LLM applications
 * Data Mining & Applied Machine Learning
-* Trustworthy & Generative AI: alignment, robust evaluation, and data contamination mitigation in LLMs
 
 Skills
 ======
