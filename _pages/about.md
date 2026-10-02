@@ -25,4 +25,4 @@ My research interests lie at the intersection of **Information Retrieval (IR), L
 
 ## Get in Touch
 
-I'm always happy to chat about research and collaboration. Feel free to reach me at [coppyzhou@gmail.com](mailto:coppyzhou@gmail.com), or find me on [GitHub](https://github.com/coppyz) and [LinkedIn](https://www.linkedin.com/in/zike-zhou/).
+I'm always happy to chat about research and collaboration. Feel free to reach me at [zzhou30@gmu.edu](mailto:zzhou30@gmu.edu), or find me on [GitHub](https://github.com/coppyz) and [LinkedIn](https://www.linkedin.com/in/zike-zhou/).

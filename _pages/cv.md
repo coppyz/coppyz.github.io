@@ -43,6 +43,6 @@ Languages
 
 Contact
 ======
-* Email: [coppyzhou@gmail.com](mailto:coppyzhou@gmail.com)
+* Email: [zzhou30@gmu.edu](mailto:zzhou30@gmu.edu)
 * GitHub: [coppyz](https://github.com/coppyz)
 * LinkedIn: [zike-zhou](https://www.linkedin.com/in/zike-zhou/)
