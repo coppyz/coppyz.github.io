@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Zike Zhou"
 title_separator          : "-"
 name                     : &name "Zike Zhou"
-description              : &description "Zike's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Zike Zhou — CS PhD student at George Mason University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://coppyz.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "coppyz/coppyz.github.io"
@@ -25,8 +25,8 @@ author:
   avatar           : "IMG_9791.png"
   name             : "Zike Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming CS PhD @ GMU · LLMs · GenAI · AI4Health"
-  location         : "Fairfax, VA (Fall 2026)"
+  bio              : "CS PhD Student @ GMU · LLMs · Trustworthy AI · Data Mining"
+  location         : "Fairfax, VA"
   employer         : "George Mason University"
   uri              : # URL
   email            : "coppyzhou@gmail.com" 

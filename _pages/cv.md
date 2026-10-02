@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, **[George Mason University](https://cs.gmu.edu/)**, 2026 – (Incoming, Fall 2026)
+* Ph.D. in Computer Science, **[George Mason University](https://cs.gmu.edu/)**, 2026 – Present
   * Advisor: Prof. [Carlotta Domeniconi](https://people.cs.gmu.edu/~carlotta/)
 * B.S. in Computer Science, **University of Wisconsin–Madison**, 2026
 
@@ -24,9 +24,9 @@ Research Experience
 
 Research Interests
 ======
-* Large Language Models (LLMs) and Generative AI
-* AI for Health & Biomedical Applications
-* Reasoning, alignment, and evaluation of foundation models
+* Retrieval & Reasoning: RAG, grounded generation, and knowledge-intensive LLM applications
+* Data Mining & Applied Machine Learning
+* Trustworthy & Generative AI: alignment, robust evaluation, and data contamination mitigation in LLMs
 
 Skills
 ======
