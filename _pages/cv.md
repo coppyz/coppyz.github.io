@@ -30,10 +30,11 @@ Research Interests
 
 Skills
 ======
-* **Programming Languages:** Python, C/C++, Java, SQL
-* **AI & LLM Frameworks:** PyTorch, Hugging Face (Transformers/Accelerate), LangChain, scikit-learn
-* **LLM Infrastructure & Ops:** Advanced Prompt Engineering, Model Fine-tuning, Vector Databases (FAISS, Chroma), RAG (Retrieval-Augmented Generation) Systems
-* **Tools & Platforms:** Git, Linux/Unix, Docker, AWS (EC2/S3), MLOps Tools
+* **Retrieval & Search:** BM25 (Pyserini), dense retrieval (Sentence-Transformers, ColBERT), cross-encoder reranking, vector search (FAISS, Chroma)
+* **LLMs & RAG:** Hugging Face (Transformers, PEFT/LoRA), vLLM, LangChain / LlamaIndex, end-to-end RAG pipelines
+* **Evaluation:** IR metrics (nDCG, MRR, Recall@k), BEIR / MS MARCO benchmarks, LLM-as-a-judge
+* **ML & Data:** PyTorch, scikit-learn, pandas, large-scale data processing
+* **Engineering:** Python, C/C++, Java, SQL · Git, Linux, Docker, AWS, GPU clusters
 
 Languages
 ======
